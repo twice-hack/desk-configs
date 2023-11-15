@@ -1,8 +1,8 @@
 # Graphical Environment Settings
 
 ### Description 
-In this repository you will find the configurations of each desktop that will be using twice-hack.
-In this case there will be three official ***MATE, LXDE, BSPWM and I3-wm***
+In this repository you will find the configurations of each desktop that will use twice-hack.
+In this case there will be four official ***MATE, LXDE, BSPWM and I3-wm***
 
 <hr>
 
