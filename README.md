@@ -1,8 +1,9 @@
 # Graphical Environment Settings
 
 ### Description 
-In this repository you will find the configurations of each desktop that will use twice-hack.
-In this case there will be four official ***MATE, LXDE, BSPWM and I3-wm***
+In this repository you will find the configurations of each desktop that will be used twice-hack.
+In this case there will be two officers 
+***MATE and LXDE***
 
 <hr>
 
@@ -14,10 +15,10 @@ In this case there will be four official ***MATE, LXDE, BSPWM and I3-wm***
 
 <img src="https://i.postimg.cc/ZKjcdsy1/Screenshot-from-2023-11-15-14-42-50.png" width="1000" >   
 
-## BSPWM
+## BSPWM (Unofficial)
 
 LOADING...
 
-## I3-wm
+## I3-wm (Unofficial)
 
 LOADING...
