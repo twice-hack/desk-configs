@@ -9,12 +9,11 @@ In this case there will be two officers
 
 ## MATE
 
-<img src="https://i.postimg.cc/Nfw8mrdH/Screenshot-at-2023-11-16-23-46-38.png" width="1000" > 
+[![Sin-t-tulo-20000.png](https://i.postimg.cc/Fz2k6Wys/Sin-t-tulo-20000.png)](https://postimg.cc/8fmCJbXq)
 
 ## BSPWM 
 
-<img src="https://i.postimg.cc/90JgfbWm/Screenshot-2023-11-17-21-49-270000.png" width="1000" > 
-
+[![Sin-t-2lo-20000.png](https://i.postimg.cc/xC1mNbjY/Sin-t-2lo-20000.png)](https://postimg.cc/2qgyPyBX)
 
 # Why *MATE* and *BSPWM* ?
 
